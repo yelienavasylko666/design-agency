@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "atom",
+    "heading": "Art Of Coding",
+    "text" : "Be like Pablo Picasso in web-world. You have to be better and we will help you with it!"
+  },
+  {
+    "icon": "tablet-alt",
+    "heading": "Responsive Design",
+    "text" : "It`s very important thing which makes using final product as convenient as possible."
+  },
+  {
+    "icon": "medal",
+    "heading": "Future Reach",
+    "text" : "If you want to upgrade your skills and achieve your goals - you are at."
+  },
+  {
+    "icon": "book",
+    "heading": "Useful Documentation",
+    "text" : "We appreciate our users and ready to support them ever. Our workers are on-line 24/7 and your account is field with all information too."
+  },
+  {
+    "icon": "hourglass-half",
+    "heading": "Fast Delivery",
+    "text" : "You can use our product immediately after selecting the appropriate option and payment."
+  },
+  {
+    "icon": "handshake",
+    "heading": "Free Plugins",
+    "text" : "As we say, our workers are on-line 24/7 and when you don`t need support, they are developing and creating new cool plugins for you."
+  }
+]
